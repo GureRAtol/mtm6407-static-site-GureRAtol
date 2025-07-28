@@ -1,0 +1,5 @@
+* [Home](/#/)
+* [About](/about)
+* [Projects](/projects)
+* [Skills](/skills)
+* [Contact](/contact)
